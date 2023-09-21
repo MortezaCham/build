@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c7a5b43d.css",
-    "main.js": "/static/js/main.ee8e09c7.js",
+    "main.js": "/static/js/main.066dbc58.js",
     "static/js/787.e8ce2171.chunk.js": "/static/js/787.e8ce2171.chunk.js",
     "static/media/Nastaran_Azar.JPG": "/static/media/Nastaran_Azar.8bf6404c39fcf7df852e.JPG",
     "static/media/Room.png": "/static/media/Room.a2b70ff99070e830df41.png",
@@ -26,11 +26,11 @@
     "static/media/call_icon.png": "/static/media/call_icon.e2ee771c17914940064d.png",
     "index.html": "/index.html",
     "main.c7a5b43d.css.map": "/static/css/main.c7a5b43d.css.map",
-    "main.ee8e09c7.js.map": "/static/js/main.ee8e09c7.js.map",
+    "main.066dbc58.js.map": "/static/js/main.066dbc58.js.map",
     "787.e8ce2171.chunk.js.map": "/static/js/787.e8ce2171.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7a5b43d.css",
-    "static/js/main.ee8e09c7.js"
+    "static/js/main.066dbc58.js"
   ]
 }
