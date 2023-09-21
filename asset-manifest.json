@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c7a5b43d.css",
+    "main.js": "/static/js/main.ee8e09c7.js",
+    "static/js/787.e8ce2171.chunk.js": "/static/js/787.e8ce2171.chunk.js",
+    "static/media/Nastaran_Azar.JPG": "/static/media/Nastaran_Azar.8bf6404c39fcf7df852e.JPG",
+    "static/media/Room.png": "/static/media/Room.a2b70ff99070e830df41.png",
+    "static/media/Sona Ghorashi.jpg": "/static/media/Sona Ghorashi.3ba7d5955a118e803463.jpg",
+    "static/media/Logo.png": "/static/media/Logo.1af93a1ca18ef0025e51.png",
+    "static/media/Nariman_Nezami.jpg": "/static/media/Nariman_Nezami.d03465c88bbe0c574fb6.jpg",
+    "static/media/For Irad channel mixed1-[AudioTrimmer.com].mp3": "/static/media/For Irad channel mixed1-[AudioTrimmer.com].a6e4ddd142f7cc96b323.mp3",
+    "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/3D.jpg": "/static/media/3D.291b1f2aaab85f969536.jpg",
+    "static/media/Animation.jpg": "/static/media/Animation.e0a81da4a8caacd2d96b.jpg",
+    "static/media/Voice.jpg": "/static/media/Voice.6dce04d8f0062a981329.jpg",
+    "static/media/AR.jpg": "/static/media/AR.c7c4bfc6484e59e5b550.jpg",
+    "static/media/Music1.jpg": "/static/media/Music1.2f6129b7ec0066339916.jpg",
+    "static/media/Contact Us.jpg": "/static/media/Contact Us.5bd5632bfafbb8ae4b1a.jpg",
+    "static/media/Medical illustration.jpg": "/static/media/Medical illustration.adebd00cf5d5302ea637.jpg",
+    "static/media/Game.jpg": "/static/media/Game.df7fafd53a8c835b39ab.jpg",
+    "static/media/Mahdiay_Tabrizi.jpg": "/static/media/Mahdiay_Tabrizi.47d5914bdb8d2bca243c.jpg",
+    "static/media/Hadi_Ghadimi.jpg": "/static/media/Hadi_Ghadimi.d22c6df38f02b52677e4.jpg",
+    "static/media/youtube logo.png": "/static/media/youtube logo.844cc09d296b1e3f8384.png",
+    "static/media/VR.jpg": "/static/media/VR.cbb0d9fe3942856e9cff.jpg",
+    "static/media/instagram logo.png": "/static/media/instagram logo.fb6b11e6d2f7047ff71d.png",
+    "static/media/call_icon.png": "/static/media/call_icon.e2ee771c17914940064d.png",
+    "index.html": "/index.html",
+    "main.c7a5b43d.css.map": "/static/css/main.c7a5b43d.css.map",
+    "main.ee8e09c7.js.map": "/static/js/main.ee8e09c7.js.map",
+    "787.e8ce2171.chunk.js.map": "/static/js/787.e8ce2171.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7a5b43d.css",
+    "static/js/main.ee8e09c7.js"
+  ]
+}
